@@ -116,8 +116,8 @@ const kualki = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cthreejs%2Cblender&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cthreejs%2Cblender&theme=light">
     <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, three.js, Blender">
   </picture>
 </p>
