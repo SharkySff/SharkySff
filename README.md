@@ -116,14 +116,16 @@ const kualki = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cthreejs%2Cblender&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cthreejs%2Cblender&theme=light">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, three.js, Blender">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cthreejs%2Cvercel%2Cfirebase%2Csupabase%2Cblender&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cthreejs%2Cvercel%2Cfirebase%2Csupabase%2Cblender&theme=light">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,vercel,firebase,supabase,blender&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, three.js, Vercel, Firebase, Supabase, Blender">
   </picture>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/WebGL%20%2F%20GLSL-1D2766?style=flat-square&logo=webgl&logoColor=FF7A2F" alt="WebGL / GLSL">
   <img src="https://img.shields.io/badge/FFmpeg-1D2766?style=flat-square&logo=ffmpeg&logoColor=FF7A2F" alt="FFmpeg">
+  <img src="https://img.shields.io/badge/Cloudinary-1D2766?style=flat-square&logo=cloudinary&logoColor=FF7A2F" alt="Cloudinary">
+  <img src="https://img.shields.io/badge/ElevenLabs-1D2766?style=flat-square&logo=elevenlabs&logoColor=FF7A2F" alt="ElevenLabs">
   <img src="https://img.shields.io/badge/OpenAI%20API-1D2766?style=flat-square&logo=openai&logoColor=FF7A2F" alt="OpenAI API">
   <img src="https://img.shields.io/badge/Anthropic%20API-1D2766?style=flat-square&logo=anthropic&logoColor=FF7A2F" alt="Anthropic API">
 </p>
@@ -134,9 +136,9 @@ const kualki = {
      GitHub > foto de perfil > Settings > Public profile > «Include private contributions on my profile». -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=1D2766&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=2E3A8C">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=F3EBDD&ring=FF7A2F&fire=FF7A2F&currStreakNum=1D2766&sideNums=1D2766&currStreakLabel=FF7A2F&sideLabels=1D2766&dates=5B6290&stroke=E3D6C0">
-    <img src="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=1D2766&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=2E3A8C" alt="Racha de contribuciones">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=00000000&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=30363D">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=00000000&ring=FF7A2F&fire=FF7A2F&currStreakNum=1D2766&sideNums=1D2766&currStreakLabel=FF7A2F&sideLabels=1D2766&dates=5B6290&stroke=D0D7DE">
+    <img src="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=00000000&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=30363D" alt="Racha de contribuciones">
   </picture>
 </p>
 
