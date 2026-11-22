@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://thedataprime.com/"><img src="https://img.shields.io/badge/Web-thedataprime.com-FF7A2F?style=for-the-badge&logo=googlechrome&logoColor=F6F0E4&labelColor=1D2766" alt="Web"></a>
   <a href="https://www.instagram.com/sharky.sff/"><img src="https://img.shields.io/badge/Instagram-@sharky.sff-FF7A2F?style=for-the-badge&logo=instagram&logoColor=F6F0E4&labelColor=1D2766" alt="Instagram"></a>
-  <img src="https://img.shields.io/badge/Discord-shark9546-FF7A2F?style=for-the-badge&logo=discord&logoColor=F6F0E4&labelColor=1D2766" alt="Discord: shark9546">
+  <a href="https://discord.com/users/699419493033836595"><img src="https://img.shields.io/badge/Discord-shark9546-FF7A2F?style=for-the-badge&logo=discord&logoColor=F6F0E4&labelColor=1D2766" alt="Discord: shark9546"></a>
 </p>
 
 ---
