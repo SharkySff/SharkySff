@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./banner.gif" alt="Kualki by TheDataPrime · Cualquiera puede crear." width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-claro.gif">
+    <img src="./banner.gif" alt="Kualki by TheDataPrime · Cualquiera puede crear." width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Hola, soy Shark</h1>
@@ -17,6 +21,14 @@
 </p>
 
 ---
+
+## Cómo trabajamos
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./como-trabajamos/oscuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./como-trabajamos/claro.svg">
+  <img src="./como-trabajamos/claro.svg" width="100%" alt="Cómo trabajamos: 01 Entender · 02 Diseñar · 03 Construir">
+</picture>
 
 ## Lo que construimos
 
@@ -65,10 +77,49 @@ const kualki = {
 
 > Humano en la idea. IA en el oficio.
 
+## Trabajo reciente
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.instagram.com/reel/Df5vQ19hic4/"><img src="./trabajo/01-pato.gif" width="100%" alt="Este pato te hizo pagar más"></a><br>
+      <sub><b>Este pato te hizo pagar más</b></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.instagram.com/reel/DfqIiAsPJmi/"><img src="./trabajo/02-avion.gif" width="100%" alt="El avión de Pepsi"></a><br>
+      <sub><b>El avión de Pepsi</b></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.instagram.com/reel/DfQF0TSvl6f/"><img src="./trabajo/03-tecla.gif" width="100%" alt="La tecla más cara del mundo"></a><br>
+      <sub><b>La tecla más cara del mundo</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.instagram.com/reel/DfYFvJjPE70/"><img src="./trabajo/04-ram.gif" width="100%" alt="La pelea por tu RAM"></a><br>
+      <sub><b>La pelea por tu RAM</b></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.instagram.com/p/DfVPskDjxxT/"><img src="./trabajo/05-sigue-la-linea.jpg" width="100%" alt="Sigue la línea"></a><br>
+      <sub><b>Sigue la línea</b></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.instagram.com/p/Df-vs0rD8Qk/"><img src="./trabajo/06-andres.jpg" width="100%" alt="No seamos como Andrés"></a><br>
+      <sub><b>No seamos como Andrés</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://www.instagram.com/thedataprime/">Ver más en Instagram →</a></p>
+
 ## Con qué trabajo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, three.js, Blender">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=light">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,threejs,blender&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, three.js, Blender">
+  </picture>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/WebGL%20%2F%20GLSL-1D2766?style=flat-square&logo=webgl&logoColor=FF7A2F" alt="WebGL / GLSL">
@@ -82,7 +133,20 @@ const kualki = {
 <!-- La tarjeta de racha se llena cuando se activen las contribuciones privadas:
      GitHub > foto de perfil > Settings > Public profile > «Include private contributions on my profile». -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=1D2766&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=2E3A8C" alt="Racha de contribuciones">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=1D2766&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=2E3A8C">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=F3EBDD&ring=FF7A2F&fire=FF7A2F&currStreakNum=1D2766&sideNums=1D2766&currStreakLabel=FF7A2F&sideLabels=1D2766&dates=5B6290&stroke=E3D6C0">
+    <img src="https://streak-stats.demolab.com?user=SharkySff&locale=es&disable_animations=true&hide_border=true&background=1D2766&ring=FF7A2F&fire=FF7A2F&currStreakNum=F6F0E4&sideNums=F6F0E4&currStreakLabel=FF7A2F&sideLabels=F6F0E4&dates=A9AED6&stroke=2E3A8C" alt="Racha de contribuciones">
+  </picture>
+</p>
+
+<!-- La serpiente la genera cada día .github/workflows/serpiente.yml y la publica en la rama «output». -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharkySff/SharkySff/output/serpiente-oscura.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharkySff/SharkySff/output/serpiente-clara.svg">
+    <img src="https://raw.githubusercontent.com/SharkySff/SharkySff/output/serpiente-oscura.svg" width="100%" alt="Una serpiente naranja se come el calendario de contribuciones">
+  </picture>
 </p>
 
 <p align="center">
